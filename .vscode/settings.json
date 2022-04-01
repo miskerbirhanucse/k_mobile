@@ -1,0 +1,26 @@
+{
+    "cSpell.words": [
+        "Addis",
+        "Kiray",
+        "Sabian",
+        "credentails",
+        "dartz",
+        "kerayapp",
+        "kirayapp",
+        "kirayup",
+        "riverpod",
+        "unfocus",
+        "wifi"
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.gitkeep": false,
+        "**/*.freezed.dart": true,
+        "**/*.g.dart": true
+    },
+    "explorerExclude.backup": null
+}
